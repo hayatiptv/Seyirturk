@@ -1,4 +1,4 @@
-# Seyirturk
+# Seyirturk Kodi ve Android
 Filmler streaming online tv iptv diziler ve neler neler limitsiz izle online
 Artık yeniden sizlerleyiz...
 seyirTURK Android uygulaması ve seyirTURK Kodi eklentisi yayınlandı.
