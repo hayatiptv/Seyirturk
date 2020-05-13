@@ -13,6 +13,8 @@ seyirTURK Android uygulaması ve seyirTURK Kodi eklentisi yayınlandı.
 
 Gorunum burdan izleyin :   https://youtu.be/qkvC4LhbtDo
 
+Anroid uygulamasında IPTV de listeye geri dönmeden kanal değiştirme : https://youtu.be/ZzttUxib0iI
+
 seyirTURK Android 1.4 Kodi 3.4.5 yayınlandı.(düzeltme yayınlandı seyirTURK Anroid 1.41)
 
 Kodi Sürüm 3.4.5 - Android Sürüm 1.4
