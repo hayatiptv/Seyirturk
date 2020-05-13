@@ -13,6 +13,28 @@ seyirTURK Android uygulaması ve seyirTURK Kodi eklentisi yayınlandı.
 
 Gorunum burdan izleyin :   https://youtu.be/qkvC4LhbtDo
 
+seyirTURK Android 1.4 Kodi 3.4.5 yayınlandı.(düzeltme yayınlandı seyirTURK Anroid 1.41)
+
+Kodi Sürüm 3.4.5 - Android Sürüm 1.4
+
+1. Kodi: IMDb Top 250 ye yanlışlıkla üyelik girişi isteniyordu, düzeltildi.
+2. Genel: SuperVideo parser ı eklendi.
+3. Genel: IPTV için Favorilere ekleme ve silme getirildi. Kullanabilmek içn üye girişi yapmalısınız.
+4. Genel: Rabbit IPTV ye Chaturbate kanalları eklendi. Türkiye'de bazı ISP lerde engelli ya vpn yada dns değiştirmeyi deneyiniz.
+5. Genel: IPTV3 IPTV12 ye taşındı.
+6. Genel: IPTV3 e yeni kaynak eklendi.
+7. Genel: Radyolar Kodide ana menuye, androidde menu ye alındı.
+8. Android: Giriş yapmadan filmlerde iki son çıkanlar vardı, düzeltildi.
+9. Android: İptv listeslerinden birine girildiğinde üstte liste ismi yazmıyordu, artık hangi listede olduğunuzu üst barda görebileceksiniz.
+10. Android: Görünümde poster sayısı ekranı dolduracak şekilde ayarlandı.
+11. Android: Android TV boxlarda ana diziler yeni çıkanlar ekrana 3. kanal olarak eklendi.
+12. Android: Bazı telefonlarda navigation bar video playerda kaybolmuyordu, düzeltildi.
+13. Android: Iptv kanallarında kanaldan çıkmadan kanal zaplayabileceksiniz. Kumandanızın sağ sol tuşları ile kanallar arasında gezebilir, yukarı tuşuna basarak o anki listeyi görüntüleyebilrsiniz.
+14. Android: Film ve dzilerin bir kısmı izlendikten sonra video bulunamadı hatası veriyordu, aynı hatayı biz yaşamadığımız için tahmini düzeltmeler yapıldı, muhtemelen bu sorunu yaşamayacaksınız.
+
+seyirTURK Android 1.41 düzeltme sürümü:
+seyirTURK Android Sürüm 1.4 de iptv kanal geçişlerinde çalışmayan kanallarda iptale basıldığında geri dönüş ana listeye oluyordu. Düzeltildi.
+
 04.05.2020
 
 Sürüm 3.4.0
