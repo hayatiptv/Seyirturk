@@ -1,4 +1,31 @@
-﻿04.05.2020
+26.05.2020
+
+Sürüm 3.4.9
+1. Rabbit Parserları eklendi.
+
+____________________________________________________________________________________________
+22.05.2020
+
+Sürüm 3.4.8
+1. Kodi: Karnaval radyoların ikonları playerda çıkmıyordu düzeltildi.
+2. Kodi: "Sonraki Sayfa" gelen listelerde film sayısı 20 idi 500 e çıkarıldı, artık sonraki sayfaya tıklamadan daha fazla film veya dizi görebileceksiniz.( Özellikle Yıllar Menusunde ve Türlerde) 
+3. Kodi: IPTV kanallarının logoları düzeltildi.
+4. Genel: IPTV kısmındaki Radyolar kaldırıldı.Kodide Ana Menüde, Androidde filmler sekmesinde iken sol üstteki menü tuşuna basarak açlışan menude bulabilirsiniz.
+5. Genel: TRT ve BRT Radyoları eklendi, KKTC ye sevgiler.
+_____________________________________________________________________________________________
+12.05.2020
+
+Sürüm 3.4.5
+1. Kodi: IMDb Top 250 ye yanlışlıkla üyelik girişi isteniyordu, düzeltildi.
+2. Genel: SuperVideo parser ı eklendi.
+3. Genel: IPTV için Favorilere ekleme ve silme getirildi. Kullanabilmek içn üye girişi yapmalısınız.
+4. Genel: Rabbit IPTV ye Chaturbate kanalları eklendi. Türkiye'de bazı ISP lerde engelli ya vpn yada dns değiştirmeyi deneyiniz.
+5. Genel: IPTV3 IPTV12 ye taşındı.
+6. Genel: IPTV3 e yeni kaynak eklendi.
+7. Genel: Radyolar Kodide ana menuye, androidde menu ye alındı.
+
+_____________________________________________________________________________________________
+04.05.2020
 
 Sürüm 3.4.0
 1. Genel: Video başlatılırken baştan veya kaldığı yerden devam et seçeneği kondu.
