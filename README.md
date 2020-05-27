@@ -1,6 +1,6 @@
 # Seyirturk Kodi ve Android repo live tv and movies 
 
-Kodi Sürüm 3.4.0 ve Android Sürüm 1.3 güncellemesi verildi. (Android 1.3.2 verildi)
+Kodi Sürüm 3.4.9 ve Android Sürüm 1.3 güncellemesi verildi. (Android 1.3.2 verildi)
 
 Filmler streaming online tv iptv diziler ve neler neler limitsiz izle online
 Artık yeniden sizlerleyiz...
