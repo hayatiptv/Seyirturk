@@ -17,6 +17,22 @@ Anroid uygulamasında IPTV de listeye geri dönmeden kanal değiştirme : https:
 
 seyirTURK Android 1.4 Kodi 3.4.5 yayınlandı.(düzeltme yayınlandı seyirTURK Anroid 1.41)
 
+26.05.2020
+
+Sürüm 3.4.9
+1. Rabbit Parserları eklendi.
+
+____________________________________________________________________________________________
+22.05.2020
+
+Sürüm 3.4.8
+1. Kodi: Karnaval radyoların ikonları playerda çıkmıyordu düzeltildi.
+2. Kodi: "Sonraki Sayfa" gelen listelerde film sayısı 20 idi 500 e çıkarıldı, artık sonraki sayfaya tıklamadan daha fazla film veya dizi görebileceksiniz.( Özellikle Yıllar Menusunde ve Türlerde) 
+3. Kodi: IPTV kanallarının logoları düzeltildi.
+4. Genel: IPTV kısmındaki Radyolar kaldırıldı.Kodide Ana Menüde, Androidde filmler sekmesinde iken sol üstteki menü tuşuna basarak açlışan menude bulabilirsiniz.
+5. Genel: TRT ve BRT Radyoları eklendi, KKTC ye sevgiler.
+
+_____________________________________________________________________________________________
 Kodi Sürüm 3.4.5 - Android Sürüm 1.4
 
 1. Kodi: IMDb Top 250 ye yanlışlıkla üyelik girişi isteniyordu, düzeltildi.
