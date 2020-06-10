@@ -1,10 +1,10 @@
-# Seyirturk Kodi ve Android repo live tv and movies 
+# Streamturk Kodi ve Android repo live tv and movies 
 
 Kodi Sürüm 3.4.9 ve Android Sürüm 1.3 güncellemesi verildi. (Android 1.3.2 verildi)
 
 Filmler streaming online tv iptv diziler ve neler neler limitsiz izle online
 Artık yeniden sizlerleyiz...
-seyirTURK Android uygulaması ve seyirTURK Kodi eklentisi yayınlandı.
+seyirTURK Android uygulaması ve StreamTURK Kodi eklentisi yayınlandı.
 
 1. Filmlerde "En Populer" kısmı IMDb nin en popülerleri değil, sizlerin en çok izlediğiniz filmler olarak sıralanmıştır.
 2. Filmlerde "Favoriler" ve "İzlemeye Başladıklarım" kısımları haricinde kalan kısımlarda filmler çıkış tarihine göre listelenmeye başlandı. "Favoriler" ve "İzlemeye Başladıklarım" da ise favorilerinize ekleme tarihi ve izleme tarihinize göre sıralanacak.
@@ -15,7 +15,7 @@ Gorunum burdan izleyin :   https://youtu.be/qkvC4LhbtDo
 
 Anroid uygulamasında IPTV de listeye geri dönmeden kanal değiştirme : https://youtu.be/ZzttUxib0iI
 
-seyirTURK Android 1.4 Kodi 3.4.5 yayınlandı.(düzeltme yayınlandı seyirTURK Anroid 1.41)
+StreamTURK Android 1.4 Kodi 3.4.5 yayınlandı.(düzeltme yayınlandı StreamTURK Anroid 1.41)
 
 26.05.2020
 
