@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.seyirTURK"
-       name="seyirTURK"
+<addon id="plugin.video.streamTURK"
+       name="streamTURK"
        version="3.5.1"
-       provider-name="tengildet@seyirTURK">
+       provider-name="smsk@streamTURK">
   <requires>
     <import addon="xbmc.python" version="2.23.0"/>
 	  </requires>
-  <extension point="xbmc.python.pluginsource" provides="video" library="seyirTURK.py">
+  <extension point="xbmc.python.pluginsource" provides="video" library="streamTURK.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>seyirTURK - Tam sürüm</summary>
-    <description>Online Video Browser [CR]Forum: https://seyirturk.tk/forum [CR]Websitesi: https://seyirturk.tk</description>
+    <summary>streamTURK - Tam sürüm</summary>
+    <description>Online Video Browser [CR]Forum: https://streamturk.tk/forum [CR]Websitesi: https://streamturk.tk</description>
     <platform>all</platform>
     <license>@</license>
-    <forum>https://seyirturk.tk/forum</forum>
-    <website>https://seyirturk.tk</website>
-    <email>tengildet@seyirturk.tk</email>
+    <forum>https://streamturk.tk/forum</forum>
+    <website>https://streamturk.tk</website>
+    <email>smsk@streamturk.tk</email>
   </extension>
 
 
 </addon>
 
-    <addon id="repository.seyirTURK" name="seyirTURK Repo" version="1.0.1" provider-name="tengildet@seyirturk">
+    <addon id="repository.streamTURK" name="streamTURK Repo" version="1.0.1" provider-name="tengildet@streamturk">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
-        <extension point="xbmc.addon.repository" name="seyirTURK Repo">
-            <info compressed="false">https://seyirturk.tk/repo/addons.xml</info>
-            <checksum>https://seyirturk.tk/repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://seyirturk.tk/repo/</datadir>
+        <extension point="xbmc.addon.repository" name="streamTURK Repo">
+            <info compressed="false">https://streamturk.tk/repo/addons.xml</info>
+            <checksum>https://streamturk.tk/repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://streamturk.tk/repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>seyirTURK Reposu</summary>
-            <description>seyirTURK Reposudur.</description>
+            <summary>streamTURK Reposu</summary>
+            <description>streamTURK Reposudur.</description>
             <platform>all</platform>
     </extension>
 </addon>
