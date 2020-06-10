@@ -30,7 +30,7 @@
         <extension point="xbmc.addon.repository" name="streamTURK Repo">
             <info compressed="false">https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/hayatiptv/StreamTurk/raw/master/</datadir>
+            <datadir zip="true">https://github.com/hayatiptv/StreamTurk/raw/master/plugin.video.streamTURK-3.5.1.zip</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
