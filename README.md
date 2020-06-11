@@ -15,9 +15,9 @@ Also you can instead use one of these playlists:
 
 https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/index.country.m3u (grouped by country)
 
-https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
+https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/index.category.m3u (grouped by category)
 
-https://iptv-org.github.io/iptv/index.language.m3u (grouped by language)
+https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/index.language.m3u (grouped by language)
 
 StreamTURK Android 1.4 Kodi 3.4.5 yayınlandı.(düzeltme yayınlandı StreamTURK Anroid 1.41)
 
