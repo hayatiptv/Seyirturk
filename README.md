@@ -11,9 +11,11 @@ seyirTURK Android uygulaması ve StreamTURK Kodi eklentisi yayınlandı.
 3. Toplam film sayısı 11500 adede çıkarılmıştır. Alternatif linkler ise 60000 in üzerindedir.
 4. Tüm linkler internet ortamında bulunan linklerdir. Kendi eklediğimiz veya yüklediğimiz film yada iptv yoktur.
 
-Gorunum burdan izleyin :   https://youtu.be/qkvC4LhbtDo
+Also you can instead use one of these playlists:
 
-Anroid uygulamasında IPTV de listeye geri dönmeden kanal değiştirme : https://youtu.be/ZzttUxib0iI
+https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
+https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
+https://iptv-org.github.io/iptv/index.language.m3u (grouped by language)
 
 StreamTURK Android 1.4 Kodi 3.4.5 yayınlandı.(düzeltme yayınlandı StreamTURK Anroid 1.41)
 
