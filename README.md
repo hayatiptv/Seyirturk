@@ -13,7 +13,7 @@ seyirTURK Android uygulaması ve StreamTURK Kodi eklentisi yayınlandı.
 
 Also you can instead use one of these playlists:
 
-https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
+https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/index.country.m3u (grouped by country)
 
 https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
 
