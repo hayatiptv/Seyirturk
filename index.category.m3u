@@ -265,6 +265,8 @@ https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" tvg-country="IR" tvg-url="" group-title="",Al Sirat
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" tvg-country="IQ" tvg-url="" group-title="",Al Summaria
+http://iptv--iptv.repl.co/Arabic/Al_summaria
 #EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="" group-title="",Al Sunnah (Medina)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/aJ9fK46.png" tvg-country="JO" tvg-url="" group-title="",Al Taghier TV HD
@@ -949,6 +951,8 @@ http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FM3fBaj.png" tvg-country="US" tvg-url="" group-title="",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png" tvg-country="US" tvg-url="" group-title="",Cloudflare TV
+https://live.cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png" tvg-country="US" tvg-url="" group-title="",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lJMPFjP.png" tvg-country="DO" tvg-url="" group-title="",Color Vision 9
@@ -6460,7 +6464,7 @@ https://5afd52b55ff79.streamlock.net/AshurSat/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/way7KwN.jpg" tvg-country="IQ" tvg-url="" group-title="General",Assyrian ANB
 https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" tvg-country="IQ" tvg-url="" group-title="General",Babylon TV
-https://babylonlive.net/babylontv/kardokardo.m3u8
+https://iqlivestream.com/babylontv/kardokardo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="CD" tvg-url="" group-title="General",Boss Brothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0eGv67Q.png" tvg-country="MO" tvg-url="" group-title="General",Canal Macau
