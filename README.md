@@ -17,6 +17,14 @@ https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/index.category.m3u
 
 https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/index.language.m3u (grouped by language)
 
+19.06.2020
+
+Sürüm : 3.5.2
+
+1. Genel: Şabantv parser ı eklendi,
+2. Genel: Yerli dizilere yeni kaynaklar eklendi,
+3. Genel: Artık film açıklamalarının yanında o filme ait türler listelenicek,
+4. Kodi: IPTV8 deki TV8 düzeltildi.
 streamTURK Android Sürüm: 1.86
 1. sürüm 1.85 hiç açılmıyordu, düzeltildi.
 
