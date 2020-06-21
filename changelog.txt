@@ -1,3 +1,11 @@
+19.06.2020
+
+Sürüm : 3.5.2
+
+1. Genel: Şabantv parser ı eklendi,
+2. Genel: Yerli dizilere yeni kaynaklar eklendi,
+3. Genel: Artık film açıklamalarının yanında o filme ait türler listelenicek,
+4. Kodi: IPTV8 deki TV8 düzeltildi.
 26.05.2020
 
 Sürüm 3.4.9
