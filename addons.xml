@@ -3,7 +3,7 @@
 <addon id="plugin.video.streamTURK"
        name="streamTURK"
        version="3.5.2"
-       provider-name="tengildet@streamTURK">
+       provider-name="tensimsek@streamTURK">
   <requires>
     <import addon="xbmc.python" version="2.23.0"/>
 	  </requires>
@@ -17,13 +17,13 @@
     <license>@</license>
     <forum>https://streamturk.tk/forum</forum>
     <website>https://streamturk.tk</website>
-    <email>tengildet@streamturk.tk</email>
+    <email>tensimsek@streamturk.tk</email>
   </extension>
 
 
 </addon>
 
-    <addon id="repository.streamTURK" name="streamTURK Repo" version="1.0.1" provider-name="tengildet@streamturk">
+    <addon id="repository.streamTURK" name="streamTURK Repo" version="1.0.1" provider-name="tensimsek@streamturk">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
