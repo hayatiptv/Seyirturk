@@ -1,8 +1,8 @@
 # Streamturk Kodi ve Android repo live tv and movies 
 
-DOWNLOAD KODI REPOSiTORY STREAMTURK KODi :  https://github.com/hayatiptv/StreamTurk/raw/master/repository.streamTURK/repository.streamTURK-1.0.1.zip
+DOWNLOAD KODI REPOSiTORY STREAMTURK KODi : https://github.com/hayatiptv/StreamTurk/raw/master/repository.streamTURK/repository.streamTURK-1.0.1.zip
 
-DOWNLOAD ANDROID APK :
+DOWNLOAD ANDROID APK : https://github.com/hayatiptv/StreamTurk/raw/master/android.apk/app-release.apk
 
 Filmler streaming online tv iptv diziler ve neler neler limitsiz izle online
 Artık yeniden sizlerleyiz...
