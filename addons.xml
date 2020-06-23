@@ -28,9 +28,9 @@
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="streamTURK Repo">
-            <info compressed="false">https://streamturk.tk/repo/addons.xml</info>
-            <checksum>https://streamturk.tk/repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://streamturk.tk/repo/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/hayatiptv/StreamTurk/master/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
