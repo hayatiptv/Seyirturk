@@ -1,3 +1,10 @@
+﻿03.07.2020
+
+Sürüm : 3.5.3
+
+1. Genel: supervideo parserı düzeltildi (super) yazan videolar oynatılabilecek,
+2. Genel: MilyonTV eklendi.
+__________________________________________________________________________________________
 19.06.2020
 
 Sürüm : 3.5.2
@@ -6,6 +13,24 @@ Sürüm : 3.5.2
 2. Genel: Yerli dizilere yeni kaynaklar eklendi,
 3. Genel: Artık film açıklamalarının yanında o filme ait türler listelenicek,
 4. Kodi: IPTV8 deki TV8 düzeltildi.
+__________________________________________________________________________________________
+08.06.2020
+
+Sürüm 3.5.1
+
+1. Genel: Yeşilçam parser ı değiştirildi
+___________________________________________________________________________________________
+29.05.2020
+
+Sürüm 3.5.0
+
+1. Genel: Fileru parser ı düzeltildi.
+2. Genel: Rabbit parserlar eklendi.
+3. Genel: İzlediklerim kısmı 20 video ve/veya dizi ile sınırlandırıldı.
+4. Genel: Artık Fileri tamamen izlerseniz yada %90 nını izlemiş olursanız o film 1 hafta beklemeden İzlediklerim bölümünden anında silinecek.
+5. Kodi: Dizi ve filmlerde kaldığın yer çalışmıyordu, dizilerde kaldığın bölüm hatırlanmıyordu, düzeltildi.
+6. Kodi: Aarlarda password açık görünüyordu, artık karakterler yıldız olarak görünecek.
+___________________________________________________________________________________________
 26.05.2020
 
 Sürüm 3.4.9
@@ -43,7 +68,7 @@ Sürüm 3.4.0
 5. Genel: Rabbit filmler, iptvler eklendi.
 6. Genel: Yabancı dizilere yeni kaynaklar eklendi.
 7. Genel: Iptv kısmına arama konuldu, kendi IPTV niz hariç diğer iptv listelerinin tamamında kanal arama yapabileceksiniz.
-8. Genel: seyirTURK İstatistik menüsü eklendi.
+8. Genel: streamTURK İstatistik menüsü eklendi.
 9. Genel: Karnaval radyoları eklendi,
 10. Genel: Radyodelisi Radyo kanalları eklendi,
 11. Genel: Radyodelisi TV kanalları eklendi,
@@ -54,7 +79,7 @@ Sürüm 3.4.0
 16. Kodi: TRT dizilerinde linkler oynatılamıyordu düzeltildi.
 17. Kodi: Playerda video oynarken sol üstte başlıklarda Türkçe karakterler çıkmıyordu, düzeltildi.
 18. Kodi: Çözünürlük seçme penceresine "Cancel" tuşuna basıncada video açılıyordu, artık açılmayacak, listeye dönecek.
-19. Kodi: Bazı skinlerde seyirTURK menuleri ana ekrana widget olarak eklenmiyordu, düzeltildi.
+19. Kodi: Bazı skinlerde streamTURK menuleri ana ekrana widget olarak eklenmiyordu, düzeltildi.
 20. Kodi: Kendi IPTV niz için adres eklediğinizde bazı adresler listeyi getiriyor ncak linkleri oynatmıyordu, düzeltildi,
 ______________________________________________________________________________________________
 15.04.2020
@@ -95,7 +120,7 @@ Sürüm 3.00
 1. Tüm ikon ve resimler yenilendi,
 2. Kullanıcı girişi yapıldıktan sonra:
 a. Filmlere kaldığınız yerden devam edebileceksiniz.
-b. seyirTURK Favorilerinize Filme sağ tıklayarak çıkan menuden ekleyebileceksiniz.
+b. streamTURK Favorilerinize Filme sağ tıklayarak çıkan menuden ekleyebileceksiniz.
 c. seyrTURK Favorilerinizden dilediğinizde filme sağ tıklayarak kaldırabileceksiniz.
 d. İzlerken bir şekilde yarım bıraktığınız filmi İzlemeye Başladıklarım bölümünde görebileceksiniz.
 3. Film Playerda oynarken infosuna bakıldığında Poster görünmüyordu, düzeltildi görünüyor artık.
