@@ -1,0 +1,173 @@
+﻿20.07.2020
+
+Sürüm: 3.5.4
+
+1. Genel: dizilab parserı eklendi. 
+__________________________________________________________________________________________
+03.07.2020
+
+Sürüm : 3.5.3
+
+1. Genel: supervideo parserı düzeltildi (super) yazan videolar oynatılabilecek,
+2. Genel: MilyonTV eklendi.
+__________________________________________________________________________________________
+19.06.2020
+
+Sürüm : 3.5.2
+
+1. Genel: Şabantv parser ı eklendi,
+2. Genel: Yerli dizilere yeni kaynaklar eklendi,
+3. Genel: Artık film açıklamalarının yanında o filme ait türler listelenicek,
+4. Kodi: IPTV8 deki TV8 düzeltildi.
+__________________________________________________________________________________________
+08.06.2020
+
+Sürüm 3.5.1
+
+1. Genel: Yeşilçam parser ı değiştirildi
+___________________________________________________________________________________________
+29.05.2020
+
+Sürüm 3.5.0
+
+1. Genel: Fileru parser ı düzeltildi.
+2. Genel: Rabbit parserlar eklendi.
+3. Genel: İzlediklerim kısmı 20 video ve/veya dizi ile sınırlandırıldı.
+4. Genel: Artık Fileri tamamen izlerseniz yada %90 nını izlemiş olursanız o film 1 hafta beklemeden İzlediklerim bölümünden anında silinecek.
+5. Kodi: Dizi ve filmlerde kaldığın yer çalışmıyordu, dizilerde kaldığın bölüm hatırlanmıyordu, düzeltildi.
+6. Kodi: Aarlarda password açık görünüyordu, artık karakterler yıldız olarak görünecek.
+___________________________________________________________________________________________
+26.05.2020
+
+Sürüm 3.4.9
+1. Rabbit Parserları eklendi.
+
+____________________________________________________________________________________________
+22.05.2020
+
+Sürüm 3.4.8
+1. Kodi: Karnaval radyoların ikonları playerda çıkmıyordu düzeltildi.
+2. Kodi: "Sonraki Sayfa" gelen listelerde film sayısı 20 idi 500 e çıkarıldı, artık sonraki sayfaya tıklamadan daha fazla film veya dizi görebileceksiniz.( Özellikle Yıllar Menusunde ve Türlerde) 
+3. Kodi: IPTV kanallarının logoları düzeltildi.
+4. Genel: IPTV kısmındaki Radyolar kaldırıldı.Kodide Ana Menüde, Androidde filmler sekmesinde iken sol üstteki menü tuşuna basarak açlışan menude bulabilirsiniz.
+5. Genel: TRT ve BRT Radyoları eklendi, KKTC ye sevgiler.
+_____________________________________________________________________________________________
+12.05.2020
+
+Sürüm 3.4.5
+1. Kodi: IMDb Top 250 ye yanlışlıkla üyelik girişi isteniyordu, düzeltildi.
+2. Genel: SuperVideo parser ı eklendi.
+3. Genel: IPTV için Favorilere ekleme ve silme getirildi. Kullanabilmek içn üye girişi yapmalısınız.
+4. Genel: Rabbit IPTV ye Chaturbate kanalları eklendi. Türkiye'de bazı ISP lerde engelli ya vpn yada dns değiştirmeyi deneyiniz.
+5. Genel: IPTV3 IPTV12 ye taşındı.
+6. Genel: IPTV3 e yeni kaynak eklendi.
+7. Genel: Radyolar Kodide ana menuye, androidde menu ye alındı.
+
+_____________________________________________________________________________________________
+04.05.2020
+
+Sürüm 3.4.0
+1. Genel: Video başlatılırken baştan veya kaldığı yerden devam et seçeneği kondu.
+2. Genel: Yıllara göre sıralama getirildi (dizi ve filmler için)
+3. Genel: Dizilerde kalınan bölüm o dizinin kendi listesinde en üste konuluyor artık. Kaldığınız bölüme daha rahat ulaşabileceksiniz.
+4. Genel: Yeşilçam filmleri eklendi.
+5. Genel: Rabbit filmler, iptvler eklendi.
+6. Genel: Yabancı dizilere yeni kaynaklar eklendi.
+7. Genel: Iptv kısmına arama konuldu, kendi IPTV niz hariç diğer iptv listelerinin tamamında kanal arama yapabileceksiniz.
+8. Genel: streamTURK İstatistik menüsü eklendi.
+9. Genel: Karnaval radyoları eklendi,
+10. Genel: Radyodelisi Radyo kanalları eklendi,
+11. Genel: Radyodelisi TV kanalları eklendi,
+12. Kodi: Dizi Türlerinde ilk sayfada diziler sonraki sayfalarda filmler geliyordu, düzeltildi.
+13. Kodi: Aramalarda dil seçiminde cancel butonuna basıldığında arama sayfası görünüyordu, düzeltildi.
+14. Kodi: Aramalarda keyboard da cancel butonunu basıldığında boş sayfa geliyordu artık kaldığınız liste ekrana gelecek.
+15. Kodi: Aramada film yada dizi bulunamadığında 'Link bulunamadı' diyordu, artık 'Arama sayfası boş döndü'  diyecek.
+16. Kodi: TRT dizilerinde linkler oynatılamıyordu düzeltildi.
+17. Kodi: Playerda video oynarken sol üstte başlıklarda Türkçe karakterler çıkmıyordu, düzeltildi.
+18. Kodi: Çözünürlük seçme penceresine "Cancel" tuşuna basıncada video açılıyordu, artık açılmayacak, listeye dönecek.
+19. Kodi: Bazı skinlerde streamTURK menuleri ana ekrana widget olarak eklenmiyordu, düzeltildi.
+20. Kodi: Kendi IPTV niz için adres eklediğinizde bazı adresler listeyi getiriyor ncak linkleri oynatmıyordu, düzeltildi,
+______________________________________________________________________________________________
+15.04.2020
+
+Sürüm 3.3.0
+1. Genel: vcdn parserı düzeltildi.
+2. Genel: Filmler ve dizilerde açıklamaya IMDB Puanı ve Çıkış Tarihleri eklendi.
+3. Kodi: vidmoly parserı düzeltildi Moly seçeneklerini kullanabilirsiniz.
+4. Kodi: Almanca filmler listelenirken Türkçe Dublaj olarak isimlendriliyordu. Artık Almanca Dublaj olarak listelenecek.
+5. Kodi: Fragmanlar Türkçe Altyazılı olarak listeleniyordu, sadece Fragman olarak isimlendirilecek şekilde düzeltildi.
+6. Kodi: Kendi m3u nuzu yüklediğinizde kategorisi boş olan IPTV ler gelmiyordu, düzeltildi.
+7. Kodi: 3 sütunlu görünüm eklendi, ayarlardan Görünümü genişletilmiş olarak seçerseniz üç sütunlu görünüme geçersiniz film özetleri ve afişleri bu görünümde daha iyi gözükmektedir
+8. Kodi sürümü 17 nin ltında olanlardada çalışacak şekilde kodlar değiştirildi, Kodi 17 nin altındaki kodilerde desteklenmeyen linkler kırmızı uyarı verecek.
+
+______________________________________________________________________________________________
+07.04.2020
+
+Sürüm 3.2.0
+1. Genel: Almanca filmler eklendi.
+2. Genel: Türk dizileri eklendi.
+3. Genel: Türk filmleri eklendi.
+4. Genel: Yabancı diziler eklendi.
+5. Genel: Rastgele film ve dizi menusu eklendi
+6. Genel: Dizilerde ve filmlerde ayrı arama eklendi
+7. Genel: sizin yerinize takip ettiğiniz dizinin hangi bölümünde kaldınızı hatırlama ve dizi bölümünün üzerinde kırmızı play tuşu ile gösterme eklendi.(programlardan giriş yapılırsa)
+8. Genel: Yeni filmler ve eski filmlere yeni kaynaklar eklendi. Bu kaynaklara ait 11 yeni parser eklendi.
+9. Genel: Fragmanlar eklendi.
+10. Genel: Yerli film ve diziler menüdeki türler seçeneğinde ilk sıraya eklendi.
+11. Kodi: kendinize ait m3u ların adreslerini ayarlardan girip, ekentiden izleyebilirsiniz. veya m3u dosyasını gerekli yere atıp izleyebilirsiniz. İptvleriniz m3u dosyanız uygunsa gruplara ayrılır.
+12. Kodi: Film aramada dublaj seçimi ayarlardan kaldırıldı. Arama seçeneği seçildiğinde çıkan mesajdan seçim yapılacak.
+13. Kodi: Film adlarının yanında çıkan - işareti kaldırıldı.
+14. Kodi: Bazı filmler koddaki hata yüzünden açılmıyordu. Düzeltildi.
+15. Kodi: Film türlerinde Suç (eski) bölümüne girilemiyordu. Düzeltildi.
+______________________________________________________________________________________________
+05.03.2020
+
+Sürüm 3.00
+1. Tüm ikon ve resimler yenilendi,
+2. Kullanıcı girişi yapıldıktan sonra:
+a. Filmlere kaldığınız yerden devam edebileceksiniz.
+b. streamTURK Favorilerinize Filme sağ tıklayarak çıkan menuden ekleyebileceksiniz.
+c. seyrTURK Favorilerinizden dilediğinizde filme sağ tıklayarak kaldırabileceksiniz.
+d. İzlerken bir şekilde yarım bıraktığınız filmi İzlemeye Başladıklarım bölümünde görebileceksiniz.
+3. Film Playerda oynarken infosuna bakıldığında Poster görünmüyordu, düzeltildi görünüyor artık.
+4. Youtube videolarında youtube ikonu görünecek şekilde düzeltme yapıldı.
+
+
+
+18.03.2015
+plus.google, cloudy, videoraj parserlerı düzeltidi | parsers fixed.
+
+v2.00
+09.03.2015
+- Arama özelliği eklendi daha sonra aktive edilecek. Seacrh Engine added activated later.
+- yerel.xml destegi getirildi. local xml can be used. 
+- Parserlar güncellendi. Parsers updated and more added.
+
+v1.57
+25.11.2014
+- sunucu değişikliği yapıldı.
+- server changed.
+
+v1.56
+07.11.2014
+- mail ru kalite seçimi düzeltidi, umarım sondur.
+- mail.ru video quality selection fixed, hope this one last.
+
+v1.55
+06.11.2014
+- mail ru kalite seçim sistemini tekrar değiştirmiş eklentide mail.ru kalite seçimi yenilendi.
+- mail.ru changed its video quality codes again ,in the add on it its corrected.
+
+v1.54
+05.11.2014
+- mail ru kalite seçim sistemini değiştirmiş eklentide mail.ru kalite seçimi yenilendi.
+- mail.ru changed its video quality codes ,in the add on it its corrected.
+
+v1.53
+23.10.2014
+- gizli mail.ru adresleri çalışır hale getirildi.
+
+v1.52
+22.10.2014
+- youtube videolarının youtube eklentisi ile koordineli çalışması eklendi (XOR teşekkürler)
+- mail.ru videolarının kalite seçimi eklendi (XOR teşekkürler)
