@@ -1,4 +1,42 @@
-﻿20.07.2020
+﻿16.10.2020
+Sürüm : 3.6.0
+
+1. Genel: filmakinesi vidmoly ve close altyazılar görünmüyordu, parser düzeltildi,
+2. Genel: VIP sistemi için kodlar eklendi,
+3. Genel: yeni yerli dizi kaynağı eklendi,
+4. Genel: yeni film kaynağı eklendi,
+5. Genel: Yerli Diziler ve Yabancı Diziler streamTURK e ekleme tarihine göre sıralanacak, eskiden dizi çıkış tarihine göre sıralanıyordu buda özellikle yabancı dizilerde eski yayın tarihli dizilerin Türkiye'de yeni yayınlandığında çıkış tarihi eski olduğu için listeye giremeyebiliyor sadece arama da çıkabiliyordu,
+6. Kodi: Bilgiler kısmının logoları değiştirildi,
+7. Kodi: Bilgiler kısmına VIP Bilgi eklendi,
+_________________________________________________________________________________________
+03.10.2020
+Sürüm: 3.5.7
+
+1. Genel: Adultiptv2 açılmıyordu, parser düzeltildi.
+2. Genel: iptv8 de 360tv açılmıyordu, nin parserı düzeltildi.
+3. Genel: Güncellemeler artık iki farklı tip yapılacak, zorunlu olan güncelleme(sistem değişikliği gerektiren güncelleştirmeler,herkes yapmak zorunda olacak) ve tercihli güncelleme (kodlardaki ufak tefek değişiklikler, dileyen yapacak).
+4. Genel: Radyohome radyoları eklendi.
+5. Genel: Dünya radyoları eklendi.
+6. Genel: Kullanıcı girişi yapmış olanların E-Mail adresleri istenecek, gerçek mail lerinizi girmeniz önemli, şifre unutulmasında sadece verdiğiniz mail ile işlem yapılacak.
+_________________________________________________________________________________________
+20.09.2020
+Sürüm : 3.5.6
+
+1. Kodi: Bilgiler bölümü bazı cihazlarda açılmıyordu düzeltildi,
+_________________________________________________________________________________________
+18.09.2020
+Sürüm : 3.5.5
+
+1. Kodi: IPTV8 deki fox tv güncellendi,
+2. Kodi: Bilgiler menusu eklendi, eski istatistik menusu bu bölüme alındı, hakkında eklendi, sürüm notları eklendi,
+3. Genel: show dizileri parser ı düzeltildi,
+4. Genel: dizi.plus eklendi,
+5. Genel: Dizi yada filme Android cihazlarda dizinin yada filmin üzerine uzun basılı tutarsanız, Kodide sağ tıklarsanız, bir menü çıkacak bu menüden benzer filmere, yönetmen ve filmlerine, senarist ve filmlerine, oyuncu ve filmlerine ulaşabileceksiniz. Benzer filmler seçilince direk listelenecek, ancak yönetmen, senarist yada oyunculara tıklandığında bu kişiler resimleri ve bilgileri ile listelenecek, isimlerin üzerine basarak o kişinin streamTURK teki mevcut filmlerine ulaşabileceksiniz. Bu özellik üyelik girişi yapmış olanlar içindir,
+6. Genel: Türler kısmında çıkan " Fantezi" kelimesi "Fantastik" olarak değiştirildi,
+7. Genel: Kendi IPTV listenizde logolar görünmüyordu düzeltildi,
+8. Genel Film makinası çalışmayan film linkleri güncellendi.
+__________________________________________________________________________________________
+20.07.2020
 
 Sürüm: 3.5.4
 
