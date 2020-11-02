@@ -1,4 +1,21 @@
-﻿16.10.2020
+﻿30.10.2020
+Sürüm: 3.7.1
+
+1. Genel: Yeni yerlidizi kaynağı eklendi.
+2. Kodi: dizi.plus parserı düzeltildi.Bazı dizilerin bazı bölümleri oynamıyordu ve ayrıca altyazılı linkler streamTURK hatası veriyordu, düzeltildi.
+3. Kodi: Ayarlar kısmı düzenlendi.
+_________________________________________________________________________________________
+23.10.2020
+Sürüm: 3.7.0
+
+1. Genel: IPTV8 ulusal kanal parserı düzeltildi.
+2. Genel: Dizibox ın erişim adresi değiştiğinden dizler oynamıyordu, düzeltildi.
+3. Genel: VIP üyeler artık Favorilerine aldıkları dizilerin yeni bölümü gelğinde programlarımızı açtıklarında mesaj alacaklar.
+4. Genel: Dizilerde yeni çıkanlar bölümü orjinal çıkış tarihine göre sıralanıyordu, artık Türkiye'deki çıkış tarihine göre sıralanıyor.
+5. Genel: Ayarlar kısmına E-Mail alanı eklendi.
+6. Kodi: Yerli dizilerden bir kanal dizileri oynamıyordu, parser düzeltildi.
+_________________________________________________________________________________________
+16.10.2020
 Sürüm : 3.6.0
 
 1. Genel: filmakinesi vidmoly ve close altyazılar görünmüyordu, parser düzeltildi,
