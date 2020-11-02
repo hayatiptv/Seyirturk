@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.streamTURK"
        name="streamTURK"
-       version="3.6.0"
+       version="3.7.1"
        provider-name="tensimsek@streamTURK">
   <requires>
     <import addon="xbmc.python" version="2.23.0"/>
